@@ -1,0 +1,13 @@
+imporrt java . io;  
+import java .net;
+import java .until.zip;
+import java .zip . check sum;
+public class client {
+public static void main (string []args){
+try{
+socket socket =new socket ("machine b.ip")
+12345//replace .machine b.ip with the attend ip address of the machine b
+object input strem (socket .get out put stream ();
+string data to send +calculation check ";{
+long check sum +calculation check sum (data send );{
+out put stream .write ong (check
